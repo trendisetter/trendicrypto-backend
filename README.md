@@ -1,0 +1,1 @@
+# trendicrypto-backend
